@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Michal Dengusiak's GitHub stats](https://vercel-ashen-eight.vercel.app/api?username=michaldengusiak&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=michaldengusiak)](https://git.io/streak-stats)
+
+<!--[![Top Languages](https://vercel-ashen-eight.vercel.app/api/top-langs?username=michaldengusiak&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **michaldengusiak/michaldengusiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
